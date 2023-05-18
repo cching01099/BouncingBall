@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #a25a3b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#myCanvas {
+  background-color: #e5dcce;
+  border: 10px solid black;
+}
+
+#start-btn {
+  background-color: #a25a3b;
+  color: black;
+  font-size: 2rem;
+  margin-top: 8px;
+  font-weight: 900;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
